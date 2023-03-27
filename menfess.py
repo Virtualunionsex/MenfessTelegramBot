@@ -34,7 +34,7 @@ delay = os.getenv("DELAY")
 mulai = '''
 Selamat Datang Di *EXECUTIVE Menfess*
 
-kamu bebas mengirim menfess pada channel JAMET EXECUTIVE, jika ingin memposting menfess silahkan kirim pesan teks beserta tag dibawah ini ataw jika ingin buat bot menfess anda bisa hub @panggilaja_m:
+kamu bebas mengirim menfess pada channel JAMET EXECUTIVE, jika ingin memposting menfess silahkan kirim pesan teks beserta tag dibawah ini:
 	
 *{}*
 
