@@ -32,9 +32,9 @@ admin = json.loads(os.getenv("ADMIN"))
 trigger = json.loads(os.getenv("TAG"))
 delay = os.getenv("DELAY")
 mulai = '''
-Selamat Datang Di *Garz Menfess*
+Selamat Datang Di *EXECUTIVE Menfess*
 
-kamu bebas mengirim menfess pada channel garzmenfess, jika ingin memposting menfess silahkan kirim pesan teks beserta tag dibawah ini :
+kamu bebas mengirim menfess pada channel Jamet EXECUTIVE, jika ingin memposting menfess silahkan kirim pesan teks beserta tag dibawah ini :
 	
 *{}*
 
